@@ -133,6 +133,37 @@ while (true)
                     break;
             }
             break;
+        case 4: // Millas
+            switch (outputOption)
+            {
+                case 1: // Millas a Metros
+                    result = inputLength * 1609.34;
+                    Console.WriteLine("--{0} millas son {1} metros.", inputLength, result);
+                    break;
+                case 2: // Millas a Pies
+                    result = inputLength * 5280;
+                    Console.WriteLine("--{0} millas son {1} pies.", inputLength, result);
+                    break;
+                case 3: // Millas a Pulgadas
+                    result = inputLength * 63360;
+                    Console.WriteLine("--{0} millas son {1} pulgadas.", inputLength, result);
+                    break;
+                case 4: // Millas a Millas
+                    Console.WriteLine("--Ya estás en Pulgadas. No es necesario convertir.");
+                    break;
+                case 5: // Millas a Centímetros
+                    result = inputLength * 160934;
+                    Console.WriteLine("--{0} millas son {1} centímetros.", inputLength, result);
+                    break;
+                case 6: // Millas a Kilómetros
+                    result = inputLength * 1.60934;
+                    Console.WriteLine("{0} millas son {1} kilómetros.", inputLength, result);
+                    break;
+                default:
+                    Console.WriteLine("Opción no válida.");
+                    break;
+            }
+            break;
         default:
             Console.WriteLine("Opción no válida.");
             break;
