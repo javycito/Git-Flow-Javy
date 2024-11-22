@@ -11,12 +11,12 @@ En este repositorio estaremos viendo como utilizar Git flow de manera correcta.
 ## ⚡ Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/K3ury99/XO-Git-Flow
+   git clone https://github.com/javycito/Git-Flow-Javy
 2. **Navigate to the project directory:**
    ```bash
-   cd XO-Git-Flow 
+   cd Git-Flow-Javy
 2. **Navigate to the project directory:**
-3. **Open in Visual Studio:** Open the solution file KortexCrud.sln and build the project.
+3. **Open in Visual Studio:** Open the solution file and build the project.
 4. **Run the application:** Press F5 to start the application.
 
 ## ☕ Contributing
