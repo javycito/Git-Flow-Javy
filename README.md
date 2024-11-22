@@ -1,6 +1,13 @@
 # 💲 Git-Flow-Javy
 En este repositorio estaremos viendo como utilizar Git flow de manera correcta.
 
+<div style="display: flex;">
+ <img src="https://github.com/user-attachments/assets/cc5db39a-863b-4d4c-aeb8-347bc4cbde06" width="50%"></img>
+</div>
+<div style="display: flex;">
+ <img src="https://github.com/user-attachments/assets/2aa879cd-0b9d-467c-a9a5-b22ded991d6b" width="50%"></img>
+</div>
+
 ## ⚡ Getting Started
 1. **Clone the repository:**
    ```bash
