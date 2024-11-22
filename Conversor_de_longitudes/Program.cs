@@ -71,6 +71,37 @@ while (true)
                     break;
             }
             break;
+        case 2: // Pies
+            switch (outputOption)
+            {
+                case 1: // Pies a Metros
+                    result = inputLength / 3.28084;
+                    Console.WriteLine("--{0} pies son {1} metros.", inputLength, result);
+                    break;
+                case 2: // Pies a Pies
+                    Console.WriteLine("--Ya estás en Pies. No es necesario convertir.");
+                    break;
+                case 3: // Pies a Pulgadas
+                    result = inputLength * 12;
+                    Console.WriteLine("--{0} pies son {1} pulgadas.", inputLength, result);
+                    break;
+                case 4: // Pies a Millas
+                    result = inputLength / 5280;
+                    Console.WriteLine("--{0} pies son {1} millas.", inputLength, result);
+                    break;
+                case 5: // Pies a Centímetros
+                    result = inputLength * 30.48;
+                    Console.WriteLine("--{0} pies son {1} centímetros.", inputLength, result);
+                    break;
+                case 6: // Pies a Kilómetros
+                    result = inputLength * 0.0003048;
+                    Console.WriteLine("{0} pies son {1} kilómetros.", inputLength, result);
+                    break;
+                default:
+                    Console.WriteLine("Opción no válida.");
+                    break;
+            }
+            break;
         default:
             Console.WriteLine("Opción no válida.");
             break;
