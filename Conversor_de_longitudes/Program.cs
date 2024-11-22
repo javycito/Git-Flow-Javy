@@ -195,6 +195,37 @@ while (true)
                     break;
             }
             break;
+        case 6: // Kilómetros
+            switch (outputOption)
+            {
+                case 1: // Kilómetros a Metros
+                    result = inputLength * 1000;
+                    Console.WriteLine("{0} kilómetros son {1} metros.", inputLength, result);
+                    break;
+                case 2: // Kilómetros a Pies
+                    result = inputLength * 3280.84;
+                    Console.WriteLine("{0} kilómetros son {1} pies.", inputLength, result);
+                    break;
+                case 3: // Kilómetros a Pulgadas
+                    result = inputLength * 39370.1;
+                    Console.WriteLine("{0} kilómetros son {1} pulgadas.", inputLength, result);
+                    break;
+                case 4: // Kilómetros a Millas
+                    result = inputLength * 0.621371;
+                    Console.WriteLine("{0} kilómetros son {1} Millas.", inputLength, result);
+                    break;
+                case 5: // Kilómetros a Centímetros
+                    result = inputLength * 100000;
+                    Console.WriteLine("{0} kilómetros son {1} centímetros.", inputLength, result);
+                    break;
+                case 6: // Kilómetros a Kilómetros
+                    Console.WriteLine("Ya estás en kilómetros. No es necesario convertir.");
+                    break;
+                default:
+                    Console.WriteLine("Opción no válida.");
+                    break;
+            }
+            break;
         default:
             Console.WriteLine("Opción no válida.");
             break;
