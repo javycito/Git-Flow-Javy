@@ -1,0 +1,14 @@
+C:\Users\Keury\Desktop\Conversor_de_longitudes\bin\Debug\net8.0\Conversor_de_longitudes.exe
+C:\Users\Keury\Desktop\Conversor_de_longitudes\bin\Debug\net8.0\Conversor_de_longitudes.deps.json
+C:\Users\Keury\Desktop\Conversor_de_longitudes\bin\Debug\net8.0\Conversor_de_longitudes.runtimeconfig.json
+C:\Users\Keury\Desktop\Conversor_de_longitudes\bin\Debug\net8.0\Conversor_de_longitudes.dll
+C:\Users\Keury\Desktop\Conversor_de_longitudes\bin\Debug\net8.0\Conversor_de_longitudes.pdb
+C:\Users\Keury\Desktop\Conversor_de_longitudes\obj\Debug\net8.0\Conversor_de_longitudes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keury\Desktop\Conversor_de_longitudes\obj\Debug\net8.0\Conversor_de_longitudes.AssemblyInfoInputs.cache
+C:\Users\Keury\Desktop\Conversor_de_longitudes\obj\Debug\net8.0\Conversor_de_longitudes.AssemblyInfo.cs
+C:\Users\Keury\Desktop\Conversor_de_longitudes\obj\Debug\net8.0\Conversor_de_longitudes.csproj.CoreCompileInputs.cache
+C:\Users\Keury\Desktop\Conversor_de_longitudes\obj\Debug\net8.0\Conversor_de_longitudes.dll
+C:\Users\Keury\Desktop\Conversor_de_longitudes\obj\Debug\net8.0\refint\Conversor_de_longitudes.dll
+C:\Users\Keury\Desktop\Conversor_de_longitudes\obj\Debug\net8.0\Conversor_de_longitudes.pdb
+C:\Users\Keury\Desktop\Conversor_de_longitudes\obj\Debug\net8.0\Conversor_de_longitudes.genruntimeconfig.cache
+C:\Users\Keury\Desktop\Conversor_de_longitudes\obj\Debug\net8.0\ref\Conversor_de_longitudes.dll
